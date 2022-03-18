@@ -1,4 +1,3 @@
-## My Study Guide documentation
 
 ---
 

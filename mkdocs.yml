@@ -1,0 +1,6 @@
+site_name: My Study Guide documentation
+# repo_url: https://workflow-nacho.github.io/
+
+theme:
+  name: material
+
