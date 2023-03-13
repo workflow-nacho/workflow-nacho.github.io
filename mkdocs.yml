@@ -8,6 +8,8 @@ theme:
   palette:
     primary: teal
     accent: cyan
+  logo: assets/images/TxFlow_Geometric_Logo_Icon_White_on_Transparent.png
+  favicon: assets/images/favicon.png
 
 nav:
   - Overview: 'index.md'
